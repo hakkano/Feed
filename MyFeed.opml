@@ -1,0 +1,70 @@
+<opml version="1.1">
+  <head>
+    <title>FeedDemon Subscriptions</title>
+    <dateModified>Wed, 02 Sep 2020 05:28:25 GMT</dateModified>
+  </head>
+  <body>
+    <outline text="Analytics">
+      <outline text="Visual Capitalist" title="Visual Capitalist" type="rss" xmlUrl="http://www.visualcapitalist.com/feed/" htmlUrl="https://www.visualcapitalist.com"/>
+      <outline text="Featured Posts - DataViz" title="Featured Posts - DataViz" type="rss" xmlUrl="http://feeds.feedburner.com/FeaturedPosts-Dataviz"/>
+      <outline text="storytelling with data" title="storytelling with data" type="rss" xmlUrl="http://www.storytellingwithdata.com/blog?format=rss" htmlUrl="http://www.storytellingwithdata.com/"/>
+      <outline text="Beautiful Data" title="Beautiful Data" type="rss" xmlUrl="http://beautifuldata.net/feed/" htmlUrl="http://beautifuldata.net"/>
+      <outline text="Resources Discussions - Data Science Central" title="Resources Discussions - Data Science Central" type="rss" xmlUrl="http://feeds.feedburner.com/ResourcesDiscussions-DataScienceCentral"/>
+      <outline text="Featured Blog Posts - Data Science Central" title="Featured Blog Posts - Data Science Central" type="rss" xmlUrl="http://feeds.feedburner.com/FeaturedBlogPosts-DataScienceCentral"/>
+      <outline text="Featured Blog Posts - AnalyticBridge" title="Featured Blog Posts - AnalyticBridge" type="rss" xmlUrl="http://feeds.feedburner.com/FeaturedBlogPosts-Analyticbridge"/>
+    </outline>
+    <outline text="Awesome"/>
+    <outline text="Biz Finance">
+      <outline text="The Numbers" title="The Numbers" type="rss" xmlUrl="http://feeds.wsjonline.com/wsj/numbersguy/feed" htmlUrl="http://blogs.wsj.com/numbers"/>
+      <outline text="HBS Working Knowledge" title="HBS Working Knowledge" type="rss" xmlUrl="http://hbswk.hbs.edu/stories-rss.aspx"/>
+      <outline text="HBR.org" title="HBR.org" type="rss" xmlUrl="http://feeds.hbr.org/harvardbusiness" htmlUrl="http://hbr.org"/>
+      <outline text="The Big Picture" title="The Big Picture" type="rss" xmlUrl="http://archive.boston.com/bigpicture/index.xml" htmlUrl="http://www.boston.com/bigpicture/"/>
+    </outline>
+    <outline text="Bloggers">
+      <outline text="No Free Hunch" title="No Free Hunch" type="rss" xmlUrl="http://blog.kaggle.com/feed/" htmlUrl="http://blog.kaggle.com"/>
+      <outline text="Nick's Mathematical Puzzles" title="Nick's Mathematical Puzzles" type="rss" xmlUrl="http://www.qbyte.org/puzzles/rss2.xml" htmlUrl="http://www.qbyte.org/puzzles/" category="Science/Math/Recreations/Games_and_Puzzles"/>
+      <outline text="Magic, maths and money" title="Magic, maths and money" type="rss" xmlUrl="http://magic-maths-money.blogspot.com/feeds/posts/default" htmlUrl="http://magic-maths-money.blogspot.com/" category="history of financial engineering,using mathematics,philosophy of financial mathematics,financial maths in the news,science policy,credit default swaps,markets finance ethics Pragmatism"/>
+      <outline text="inessential.com" title="inessential.com" type="rss" xmlUrl="http://inessential.com/xml/rss.xml" htmlUrl="http://inessential.com/"/>
+      <outline text="Musings on Markets" title="Musings on Markets" type="rss" xmlUrl="http://aswathdamodaran.blogspot.com/feeds/posts/default" htmlUrl="http://aswathdamodaran.blogspot.com/" category="Data Update,Pricing and Value,DCF Valuation,Equity Risk Premiums,Country Risk,Market Crisis,Value of growth,IPO,Value Investing,Corporate Life Cycle,Contrarian Investing,Market Crisis of 2008,Teaching,Debt,Investment Philosophy,Narrative and Numbers,Venture Capital,Defining and Measuring Risk,Market Timing,Tesla,Valuation,Corporate Governance,Cost of capital,Discount Rates,Disruption,Dividends and cash balances,Earnings Reports,Interest Rates,Start up Companies,Value and Pricing,Value of a user,Valuing Young companies,prices and value,Acquisitions,Apple,Data Updates,Facebook IPO,Accounting Scandal,Active versus Passive Investing,Bubbles,Corporate Finance,Cost of equity,Excess Returns,Intrinsic Value,Investment banking,PE,Ride Sharing,Taxes and value,Tech,Accounting Rules,Amazon,Bitcoin,Classes,Crypto Currencies,Currency Risk,Governments and value,Low Interest Rates,Narrative Changes,Stock Buybacks,Big Markets,Brand name premium,Business Life Cycle,CEO,Cash,Central Banks,Commodity,Corporate Crisis,Data Observations,Decline and Distress,Default Spreads,Drug Business,Facebook,Financial Modeling,Hurdle Rates,Information,Macro Delusions,Politics,Private Equity,Profitability,Ride Sharing Companies,Risk free Rates,S&amp;P 500,Shareholder Value,Short selling,Small Cap Premium,Stock Market Reactions,Story telling,The Fed,Uber,Value of a franchise,Value vs Growth,Warren Buffett,Activist Investing,Asset,Bad businesses,Banks,Big Data,Black Swans,Book Reviews,Buybacks,Capital Structure,China,Collectibles,Control,Corporate Name Changes,Crisis,Crowd Wisdom,DCF,Distress,Diversification,Dividends,Education,Elections,Emerging Markets,Fairness Opinions,Family Group companies,Financial Crisis,Financial Services Business,Financing Principle,Gold,Growth,I,Introduction to web site,Investing,Investment Returns,Investor Irrationality,Management Compensation,Mark to Market,Market Structure,Mean Reversion,Multiples,Overconfidence,Preferred Stock,Price of Risk,Pricing,Social Media Company Valuations,Sports,Synergy,The,Trading,Trophy Assets,Uber valuation,Valuation Practice,Website,Year end,dilution,liquidity,stock based compensation"/>
+      <outline text="FT Big Read" title="FT Big Read" type="rss" xmlUrl="http://rss.acast.com/ft-big-read" htmlUrl="http://www.acast.com/ft-big-read" category="News,News &amp; Politics"/>
+      <outline text="Brain Pickings" title="Brain Pickings" type="rss" xmlUrl="http://feeds.feedburner.com/brainpickings/rss" htmlUrl="https://www.brainpickings.org"/>
+      <outline text="Econlib" title="Econlib" type="rss" xmlUrl="http://www.econlib.org/feed/" htmlUrl="https://www.econlib.org"/>
+      <outline text="Noahpinion" title="Noahpinion" type="rss" xmlUrl="http://noahpinionblog.blogspot.com/feeds/posts/default" htmlUrl="http://noahpinionblog.blogspot.com/" category="Economics,China,Rants,Conservatism,Industrial Policy,Monetary Economics,Trade,Politics,Debt,Finance,Fiscal Policy,Public Goods,Futurism,Libertarianism,Unemployment,Civilization,Gold,Immigration,General Equilibrium,Health Care,Japan,Labor market,Obama,Partisanship,probability,statistics"/>
+      <outline text="Scripting News" title="Scripting News" type="rss" xmlUrl="http://scripting.com/rss.xml" htmlUrl="http://scripting.com/"/>
+      <outline text="Anil Dash" title="Anil Dash" type="rss" xmlUrl="http://feeds.dashes.com/AnilDash" htmlUrl="http://dashes.com/anil/"/>
+    </outline>
+    <outline text="Comics">
+      <outline text="Graphic detail" title="Graphic detail" type="rss" xmlUrl="http://www.economist.com/graphic-detail/rss.xml" htmlUrl="http://www.economist.com/node/21011894/index.xml"/>
+      <outline text="The Oatmeal" title="The Oatmeal" type="rss" xmlUrl="http://feeds.feedburner.com/oatmealfeed" htmlUrl="http://theoatmeal.com/"/>
+    </outline>
+    <outline text="Daily">
+      <outline text="Motivational Quotes of the Day" title="Motivational Quotes of the Day" type="rss" xmlUrl="http://www.quotationspage.com/data/mqotd.rss" htmlUrl="http://www.quotationspage.com/mqotd.html"/>
+      <outline text="Wikipedia's latest &quot;Did you know?&quot; entries" title="Wikipedia's latest &quot;Did you know?&quot; entries" type="rss" xmlUrl="http://feeds.feedburner.com/enwp/DidYouKnow" htmlUrl="https://en.wikipedia.org/wiki/Wikipedia:Did_you_know"/>
+    </outline>
+    <outline text="Design">
+      <outline text="Jan Chipchase" title="Jan Chipchase" type="rss" xmlUrl="http://janchipchase.com/feed/" htmlUrl="http://janchipchase.com"/>
+      <outline text="Fubiz Media" title="Fubiz Media" type="rss" xmlUrl="http://www.fubiz.net/en/feed/" htmlUrl="http://www.fubiz.net/en/"/>
+      <outline text="IdN" title="IdN" type="rss" xmlUrl="http://feeds.feedburner.com/idnworld" htmlUrl="http://www.idnworld.com/"/>
+      <outline text="Freshome.com - Interior Design &amp; Architecture Magazine" title="Freshome.com - Interior Design &amp; Architecture Magazine" type="rss" xmlUrl="http://feeds.feedburner.com/FreshInspirationForYourHome/" htmlUrl="https://freshome.com"/>
+    </outline>
+    <outline text="Economics">
+      <outline text="Marginal REVOLUTION" title="Marginal REVOLUTION" type="rss" xmlUrl="http://marginalrevolution.com/feed" htmlUrl="http://marginalrevolution.com"/>
+    </outline>
+    <outline text="Law"/>
+    <outline text="News">
+      <outline text="Moneycontrol Latest News" title="Moneycontrol Latest News" type="rss" xmlUrl="http://www.moneycontrol.com/rss/latestnews.xml" htmlUrl="https://www.moneycontrol.com"/>
+    </outline>
+    <outline text="Personal Finance"/>
+    <outline text="Science">
+      <outline text="Scientific American" title="Scientific American" type="rss" xmlUrl="http://rss.sciam.com/ScientificAmerican-Global" htmlUrl="http://www.sciam.com/"/>
+    </outline>
+    <outline text="Technology">
+      <outline text="Lifehacker" title="Lifehacker" type="rss" xmlUrl="http://feeds.kinja.com/lifehacker/full" htmlUrl="http://lifehacker.com"/>
+      <outline text="Ars Technica" title="Ars Technica" type="rss" xmlUrl="http://feeds.arstechnica.com/arstechnica/index/" htmlUrl="http://arstechnica.com/index.php"/>
+    </outline>
+    <outline text="Twitter"/>
+    <outline text="Urban Mix">
+      <outline text="CoinDesk" title="CoinDesk" type="rss" xmlUrl="http://feeds.feedburner.com/CoinDesk" htmlUrl="http://www.coindesk.com"/>
+    </outline>
+  </body>
+</opml>
